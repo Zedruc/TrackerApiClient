@@ -72,7 +72,7 @@ public class TrackerApiClient {
 
 class Test {
     public static void main(String[] args) throws Exception {
-        TrackerApiClient client = new TrackerApiClient("595366f5-95f7-4f6c-92a9-fc274e36dbcc");
+        TrackerApiClient client = new TrackerApiClient("595366f5-95f7-4f6c-92a9-fc274e36dbcc"); // Deleted the token on tracker.gg
         System.out.println(client.getCSGOData(TrackerApiClient.PLATFORM_STEAM, "76561198008049283").toString());
     }
 }
