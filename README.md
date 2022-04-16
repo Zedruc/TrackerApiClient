@@ -1,1 +1,1 @@
-"<h1 align="center">Tracker Network API Client</h1>"
+<h1 align="center">Tracker Network API Client</h1>
